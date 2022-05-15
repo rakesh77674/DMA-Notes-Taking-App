@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DMA/DMA-Notes-Taking-App/Notes-App/app/src/main/res/layout/activity_splash_screen.xml" value="0.22826086956521738" />
+        <entry key="..\:/DMA/DMA-Notes-Taking-App/Notes-App/app/src/main/res/layout/notes_row.xml" value="0.22826086956521738" />
+        <entry key="..\:/DMA/Notes-App/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/DMA/Notes-App/app/src/main/res/layout/activity_splash_screen.xml" value="0.22826086956521738" />
+        <entry key="..\:/DMA/Notes-App/app/src/main/res/layout/add_notes_activity.xml" value="0.22826086956521738" />
+        <entry key="..\:/DMA/Notes-App/app/src/main/res/layout/notes_row.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/RAJ MANJREKAR/AndroidStudioProjects/Notes/app/src/main/res/drawable/add_notes_activity.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/RAJ MANJREKAR/AndroidStudioProjects/Notes/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.2625" />
+        <entry key="..\:/Users/RAJ MANJREKAR/AndroidStudioProjects/Notes/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/RAJ MANJREKAR/AndroidStudioProjects/Notes/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15" />
+        <entry key="..\:/Users/RAJ MANJREKAR/AndroidStudioProjects/Notes/app/src/main/res/font/roboto.xml" value="0.1" />
+        <entry key="..\:/Users/RAJ MANJREKAR/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/RAJ MANJREKAR/AndroidStudioProjects/Notes/app/src/main/res/layout/add_notes_activity.xml" value="0.264" />
+        <entry key="..\:/Users/RAJ MANJREKAR/AndroidStudioProjects/Notes/app/src/main/res/layout/main_menu.xml" value="0.1" />
+        <entry key="..\:/Users/RAJ MANJREKAR/AndroidStudioProjects/Notes/app/src/main/res/layout/notes_row.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ MANJREKAR/AndroidStudioProjects/Notes/app/src/main/res/menu/main_menu.xml" value="0.264" />
+        <entry key="..\:/Users/RAJ MANJREKAR/AndroidStudioProjects/Notes/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26614583333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

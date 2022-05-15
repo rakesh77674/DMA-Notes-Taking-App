@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="notes_app">Note-app</string>
+    <string name="life_is_too_fast_dont_forget_anything_just_note_it">Life is too fast dont forget anything just note it</string>
+    <string name="by_rakesh_chaudhary">By Rakesh Chaudhary 2022</string>
+    <string name="notes_text">Notes Text</string>
+    <string name="notes_title">Notes Title</string>
+    <string name="welcome_to_note_taking_app">Welcome to Notes Taking App!</string>
+</resources>

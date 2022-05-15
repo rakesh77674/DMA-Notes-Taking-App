@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+
+
+<!--    <androidx.appcompat.widget.SearchView&ndash;&gt;-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:id="@+id/search_view"-->
+<!--    app:queryHint="Search for note"-->
+<!--                      />-->
+
+
+            <item
+                android:id="@+id/searchview"
+                app:actionViewClass="androidx.appcompat.widget.SearchView"
+                android:icon="@drawable/ic_baseline_search_24"
+                app:showAsAction="ifRoom|collapseActionView"
+                android:title="search"
+                 />
+
+
+            <item
+                android:id="@+id/delete_note"
+                android:title="Delete Note"
+                android:icon="@drawable/ic_baseline_delete_24"
+                app:showAsAction="ifRoom"
+                />
+
+        </menu>
